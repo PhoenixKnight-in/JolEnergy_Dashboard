@@ -1,0 +1,337 @@
+material_type,origin_country,export_volume_mt,smelter_operator,processing_location,timestamp,esg_risk_score
+lithium,Australia,0.463951601,Pilbara Minerals,Australia Processing Plant,1/31/2023,10
+lithium,Australia,0.482355109,Pilbara Minerals,Australia Processing Plant,2/28/2023,10
+lithium,Australia,0.472271979,Pilbara Minerals,Australia Processing Plant,3/31/2023,10
+lithium,Australia,0.452418252,Pilbara Minerals,Australia Processing Plant,4/30/2023,10
+lithium,Australia,0.458537892,Pilbara Minerals,Australia Processing Plant,5/31/2023,10
+lithium,Australia,0.515225413,Pilbara Minerals,Australia Processing Plant,6/30/2023,10
+lithium,Australia,0.475604997,Pilbara Minerals,Australia Processing Plant,7/31/2023,10
+lithium,Australia,0.516721035,Pilbara Minerals,Australia Processing Plant,8/31/2023,10
+lithium,Australia,0.534038532,Pilbara Minerals,Australia Processing Plant,9/30/2023,10
+lithium,Australia,0.469966655,Pilbara Minerals,Australia Processing Plant,10/31/2023,10
+lithium,Australia,0.471785715,Pilbara Minerals,Australia Processing Plant,11/30/2023,10
+lithium,Australia,0.504577887,Pilbara Minerals,Australia Processing Plant,12/31/2023,10
+lithium,Australia,0.504005038,Pilbara Minerals,Australia Processing Plant,1/31/2024,10
+lithium,Australia,0.519753843,Pilbara Minerals,Australia Processing Plant,2/29/2024,10
+lithium,Australia,0.488604578,Pilbara Minerals,Australia Processing Plant,3/31/2024,10
+lithium,Australia,0.519753133,Pilbara Minerals,Australia Processing Plant,4/30/2024,10
+lithium,Australia,0.548001608,Pilbara Minerals,Australia Processing Plant,5/31/2024,10
+lithium,Australia,0.479575686,Pilbara Minerals,Australia Processing Plant,6/30/2024,10
+lithium,Australia,0.524291733,Pilbara Minerals,Australia Processing Plant,7/31/2024,10
+lithium,Australia,0.530955086,Pilbara Minerals,Australia Processing Plant,8/31/2024,10
+lithium,Australia,0.544239424,Pilbara Minerals,Australia Processing Plant,9/30/2024,10
+lithium,Australia,0.520256624,Pilbara Minerals,Australia Processing Plant,10/31/2024,10
+lithium,Australia,0.457698421,Pilbara Minerals,Australia Processing Plant,11/30/2024,10
+lithium,Australia,0.534055289,Pilbara Minerals,Australia Processing Plant,12/31/2024,10
+lithium,Chile,0.328335068,SQM,Chile Processing Plant,1/31/2023,20
+lithium,Chile,0.299595608,SQM,Chile Processing Plant,2/28/2023,20
+lithium,Chile,0.290230593,SQM,Chile Processing Plant,3/31/2023,20
+lithium,Chile,0.326329906,SQM,Chile Processing Plant,4/30/2023,20
+lithium,Chile,0.305362549,SQM,Chile Processing Plant,5/31/2023,20
+lithium,Chile,0.298804891,SQM,Chile Processing Plant,6/30/2023,20
+lithium,Chile,0.298419536,SQM,Chile Processing Plant,7/31/2023,20
+lithium,Chile,0.292471654,SQM,Chile Processing Plant,8/31/2023,20
+lithium,Chile,0.291736384,SQM,Chile Processing Plant,9/30/2023,20
+lithium,Chile,0.318134415,SQM,Chile Processing Plant,10/31/2023,20
+lithium,Chile,0.284019586,SQM,Chile Processing Plant,11/30/2023,20
+lithium,Chile,0.304037772,SQM,Chile Processing Plant,12/31/2023,20
+lithium,Chile,0.315303522,SQM,Chile Processing Plant,1/31/2024,20
+lithium,Chile,0.280387677,SQM,Chile Processing Plant,2/29/2024,20
+lithium,Chile,0.280202636,SQM,Chile Processing Plant,3/31/2024,20
+lithium,Chile,0.31558947,SQM,Chile Processing Plant,4/30/2024,20
+lithium,Chile,0.270183055,SQM,Chile Processing Plant,5/31/2024,20
+lithium,Chile,0.305233085,SQM,Chile Processing Plant,6/30/2024,20
+lithium,Chile,0.312587928,SQM,Chile Processing Plant,7/31/2024,20
+lithium,Chile,0.299484265,SQM,Chile Processing Plant,8/31/2024,20
+lithium,Chile,0.29295661,SQM,Chile Processing Plant,9/30/2024,20
+lithium,Chile,0.291325423,SQM,Chile Processing Plant,10/31/2024,20
+lithium,Chile,0.281411487,SQM,Chile Processing Plant,11/30/2024,20
+lithium,Chile,0.327098934,SQM,Chile Processing Plant,12/31/2024,20
+lithium,China,0.161268172,Tianqi Lithium,China Processing Plant,1/31/2023,40
+lithium,China,0.174197807,Tianqi Lithium,China Processing Plant,2/28/2023,40
+lithium,China,0.147328677,Tianqi Lithium,China Processing Plant,3/31/2023,40
+lithium,China,0.151053176,Tianqi Lithium,China Processing Plant,4/30/2023,40
+lithium,China,0.170437384,Tianqi Lithium,China Processing Plant,5/31/2023,40
+lithium,China,0.144626639,Tianqi Lithium,China Processing Plant,6/30/2023,40
+lithium,China,0.163109882,Tianqi Lithium,China Processing Plant,7/31/2023,40
+lithium,China,0.16160215,Tianqi Lithium,China Processing Plant,8/31/2023,40
+lithium,China,0.153618889,Tianqi Lithium,China Processing Plant,9/30/2023,40
+lithium,China,0.160954767,Tianqi Lithium,China Processing Plant,10/31/2023,40
+lithium,China,0.156624112,Tianqi Lithium,China Processing Plant,11/30/2023,40
+lithium,China,0.159476751,Tianqi Lithium,China Processing Plant,12/31/2023,40
+lithium,China,0.168159008,Tianqi Lithium,China Processing Plant,1/31/2024,40
+lithium,China,0.154382607,Tianqi Lithium,China Processing Plant,2/29/2024,40
+lithium,China,0.159377541,Tianqi Lithium,China Processing Plant,3/31/2024,40
+lithium,China,0.144954184,Tianqi Lithium,China Processing Plant,4/30/2024,40
+lithium,China,0.164103558,Tianqi Lithium,China Processing Plant,5/31/2024,40
+lithium,China,0.146411616,Tianqi Lithium,China Processing Plant,6/30/2024,40
+lithium,China,0.17311111,Tianqi Lithium,China Processing Plant,7/31/2024,40
+lithium,China,0.170585944,Tianqi Lithium,China Processing Plant,8/31/2024,40
+lithium,China,0.153896118,Tianqi Lithium,China Processing Plant,9/30/2024,40
+lithium,China,0.175902761,Tianqi Lithium,China Processing Plant,10/31/2024,40
+lithium,China,0.146365752,Tianqi Lithium,China Processing Plant,11/30/2024,40
+lithium,China,0.166670524,Tianqi Lithium,China Processing Plant,12/31/2024,40
+cobalt,DRC,0.205224415,Glencore,DRC Processing Plant,1/31/2023,60
+cobalt,DRC,0.231296425,Glencore,DRC Processing Plant,2/28/2023,60
+cobalt,DRC,0.211088267,Glencore,DRC Processing Plant,3/31/2023,60
+cobalt,DRC,0.230839443,Glencore,DRC Processing Plant,4/30/2023,60
+cobalt,DRC,0.227257304,Glencore,DRC Processing Plant,5/31/2023,60
+cobalt,DRC,0.209142187,Glencore,DRC Processing Plant,6/30/2023,60
+cobalt,DRC,0.205070842,Glencore,DRC Processing Plant,7/31/2023,60
+cobalt,DRC,0.203469533,Glencore,DRC Processing Plant,8/31/2023,60
+cobalt,DRC,0.241919368,Glencore,DRC Processing Plant,9/30/2023,60
+cobalt,DRC,0.240760962,Glencore,DRC Processing Plant,10/31/2023,60
+cobalt,DRC,0.212721568,Glencore,DRC Processing Plant,11/30/2023,60
+cobalt,DRC,0.234824185,Glencore,DRC Processing Plant,12/31/2023,60
+cobalt,DRC,0.204125713,Glencore,DRC Processing Plant,1/31/2024,60
+cobalt,DRC,0.233005081,Glencore,DRC Processing Plant,2/29/2024,60
+cobalt,DRC,0.212424469,Glencore,DRC Processing Plant,3/31/2024,60
+cobalt,DRC,0.199531788,Glencore,DRC Processing Plant,4/30/2024,60
+cobalt,DRC,0.237642536,Glencore,DRC Processing Plant,5/31/2024,60
+cobalt,DRC,0.222520109,Glencore,DRC Processing Plant,6/30/2024,60
+cobalt,DRC,0.231881447,Glencore,DRC Processing Plant,7/31/2024,60
+cobalt,DRC,0.204959081,Glencore,DRC Processing Plant,8/31/2024,60
+cobalt,DRC,0.235297897,Glencore,DRC Processing Plant,9/30/2024,60
+cobalt,DRC,0.239352843,Glencore,DRC Processing Plant,10/31/2024,60
+cobalt,DRC,0.206676761,Glencore,DRC Processing Plant,11/30/2024,60
+cobalt,DRC,0.212702793,Glencore,DRC Processing Plant,12/31/2024,60
+nickel,Indonesia,2.082158661,Vale Indonesia,Indonesia Processing Plant,1/31/2023,50
+nickel,Indonesia,2.346457832,Vale Indonesia,Indonesia Processing Plant,2/28/2023,50
+nickel,Indonesia,2.070364862,Vale Indonesia,Indonesia Processing Plant,3/31/2023,50
+nickel,Indonesia,1.950133159,Vale Indonesia,Indonesia Processing Plant,4/30/2023,50
+nickel,Indonesia,2.002496129,Vale Indonesia,Indonesia Processing Plant,5/31/2023,50
+nickel,Indonesia,2.086335328,Vale Indonesia,Indonesia Processing Plant,6/30/2023,50
+nickel,Indonesia,1.959445454,Vale Indonesia,Indonesia Processing Plant,7/31/2023,50
+nickel,Indonesia,2.312762799,Vale Indonesia,Indonesia Processing Plant,8/31/2023,50
+nickel,Indonesia,2.170579256,Vale Indonesia,Indonesia Processing Plant,9/30/2023,50
+nickel,Indonesia,2.264336673,Vale Indonesia,Indonesia Processing Plant,10/31/2023,50
+nickel,Indonesia,2.039119796,Vale Indonesia,Indonesia Processing Plant,11/30/2023,50
+nickel,Indonesia,2.108219263,Vale Indonesia,Indonesia Processing Plant,12/31/2023,50
+nickel,Indonesia,2.124987491,Vale Indonesia,Indonesia Processing Plant,1/31/2024,50
+nickel,Indonesia,2.036831281,Vale Indonesia,Indonesia Processing Plant,2/29/2024,50
+nickel,Indonesia,1.95911755,Vale Indonesia,Indonesia Processing Plant,3/31/2024,50
+nickel,Indonesia,2.201117257,Vale Indonesia,Indonesia Processing Plant,4/30/2024,50
+nickel,Indonesia,2.245631959,Vale Indonesia,Indonesia Processing Plant,5/31/2024,50
+nickel,Indonesia,2.324147654,Vale Indonesia,Indonesia Processing Plant,6/30/2024,50
+nickel,Indonesia,1.99463264,Vale Indonesia,Indonesia Processing Plant,7/31/2024,50
+nickel,Indonesia,2.094952569,Vale Indonesia,Indonesia Processing Plant,8/31/2024,50
+nickel,Indonesia,2.295629227,Vale Indonesia,Indonesia Processing Plant,9/30/2024,50
+nickel,Indonesia,2.039181189,Vale Indonesia,Indonesia Processing Plant,10/31/2024,50
+nickel,Indonesia,2.150197868,Vale Indonesia,Indonesia Processing Plant,11/30/2024,50
+nickel,Indonesia,2.218994532,Vale Indonesia,Indonesia Processing Plant,12/31/2024,50
+nickel,Philippines,1.39123703,Nickel Asia Corp,Philippines Processing Plant,1/31/2023,45
+nickel,Philippines,1.548753824,Nickel Asia Corp,Philippines Processing Plant,2/28/2023,45
+nickel,Philippines,1.458210373,Nickel Asia Corp,Philippines Processing Plant,3/31/2023,45
+nickel,Philippines,1.516669139,Nickel Asia Corp,Philippines Processing Plant,4/30/2023,45
+nickel,Philippines,1.472462077,Nickel Asia Corp,Philippines Processing Plant,5/31/2023,45
+nickel,Philippines,1.338886203,Nickel Asia Corp,Philippines Processing Plant,6/30/2023,45
+nickel,Philippines,1.510079859,Nickel Asia Corp,Philippines Processing Plant,7/31/2023,45
+nickel,Philippines,1.431771018,Nickel Asia Corp,Philippines Processing Plant,8/31/2023,45
+nickel,Philippines,1.408667299,Nickel Asia Corp,Philippines Processing Plant,9/30/2023,45
+nickel,Philippines,1.518820141,Nickel Asia Corp,Philippines Processing Plant,10/31/2023,45
+nickel,Philippines,1.333458512,Nickel Asia Corp,Philippines Processing Plant,11/30/2023,45
+nickel,Philippines,1.324552694,Nickel Asia Corp,Philippines Processing Plant,12/31/2023,45
+nickel,Philippines,1.482850841,Nickel Asia Corp,Philippines Processing Plant,1/31/2024,45
+nickel,Philippines,1.306210824,Nickel Asia Corp,Philippines Processing Plant,2/29/2024,45
+nickel,Philippines,1.524883661,Nickel Asia Corp,Philippines Processing Plant,3/31/2024,45
+nickel,Philippines,1.458386118,Nickel Asia Corp,Philippines Processing Plant,4/30/2024,45
+nickel,Philippines,1.34537345,Nickel Asia Corp,Philippines Processing Plant,5/31/2024,45
+nickel,Philippines,1.380969343,Nickel Asia Corp,Philippines Processing Plant,6/30/2024,45
+nickel,Philippines,1.440600036,Nickel Asia Corp,Philippines Processing Plant,7/31/2024,45
+nickel,Philippines,1.547387282,Nickel Asia Corp,Philippines Processing Plant,8/31/2024,45
+nickel,Philippines,1.367941984,Nickel Asia Corp,Philippines Processing Plant,9/30/2024,45
+nickel,Philippines,1.468509567,Nickel Asia Corp,Philippines Processing Plant,10/31/2024,45
+nickel,Philippines,1.547581709,Nickel Asia Corp,Philippines Processing Plant,11/30/2024,45
+nickel,Philippines,1.308318899,Nickel Asia Corp,Philippines Processing Plant,12/31/2024,45
+graphite,China,1.216434067,BTR New Material Group,China Processing Plant,1/31/2023,40
+graphite,China,1.152529909,BTR New Material Group,China Processing Plant,2/28/2023,40
+graphite,China,1.154738867,BTR New Material Group,China Processing Plant,3/31/2023,40
+graphite,China,1.243273595,BTR New Material Group,China Processing Plant,4/30/2023,40
+graphite,China,1.266569035,BTR New Material Group,China Processing Plant,5/31/2023,40
+graphite,China,1.250656433,BTR New Material Group,China Processing Plant,6/30/2023,40
+graphite,China,1.270786331,BTR New Material Group,China Processing Plant,7/31/2023,40
+graphite,China,1.117600661,BTR New Material Group,China Processing Plant,8/31/2023,40
+graphite,China,1.161862027,BTR New Material Group,China Processing Plant,9/30/2023,40
+graphite,China,1.256442034,BTR New Material Group,China Processing Plant,10/31/2023,40
+graphite,China,1.314445105,BTR New Material Group,China Processing Plant,11/30/2023,40
+graphite,China,1.120176223,BTR New Material Group,China Processing Plant,12/31/2023,40
+graphite,China,1.217582066,BTR New Material Group,China Processing Plant,1/31/2024,40
+graphite,China,1.276201649,BTR New Material Group,China Processing Plant,2/29/2024,40
+graphite,China,1.298886978,BTR New Material Group,China Processing Plant,3/31/2024,40
+graphite,China,1.110907147,BTR New Material Group,China Processing Plant,4/30/2024,40
+graphite,China,1.168685879,BTR New Material Group,China Processing Plant,5/31/2024,40
+graphite,China,1.20167354,BTR New Material Group,China Processing Plant,6/30/2024,40
+graphite,China,1.088833956,BTR New Material Group,China Processing Plant,7/31/2024,40
+graphite,China,1.122915761,BTR New Material Group,China Processing Plant,8/31/2024,40
+graphite,China,1.236093289,BTR New Material Group,China Processing Plant,9/30/2024,40
+graphite,China,1.292174425,BTR New Material Group,China Processing Plant,10/31/2024,40
+graphite,China,1.14623127,BTR New Material Group,China Processing Plant,11/30/2024,40
+graphite,China,1.197182512,BTR New Material Group,China Processing Plant,12/31/2024,40
+graphite,China,2.626236982,Shanshan Technology,China Processing Plant,1/31/2023,40
+graphite,China,2.577985136,Shanshan Technology,China Processing Plant,2/28/2023,40
+graphite,China,2.58837476,Shanshan Technology,China Processing Plant,3/31/2023,40
+graphite,China,2.483038139,Shanshan Technology,China Processing Plant,4/30/2023,40
+graphite,China,2.620311255,Shanshan Technology,China Processing Plant,5/31/2023,40
+graphite,China,2.193354061,Shanshan Technology,China Processing Plant,6/30/2023,40
+graphite,China,2.385793495,Shanshan Technology,China Processing Plant,7/31/2023,40
+graphite,China,2.580151457,Shanshan Technology,China Processing Plant,8/31/2023,40
+graphite,China,2.564405741,Shanshan Technology,China Processing Plant,9/30/2023,40
+graphite,China,2.346399053,Shanshan Technology,China Processing Plant,10/31/2023,40
+graphite,China,2.260371746,Shanshan Technology,China Processing Plant,11/30/2023,40
+graphite,China,2.483644604,Shanshan Technology,China Processing Plant,12/31/2023,40
+graphite,China,2.415100029,Shanshan Technology,China Processing Plant,1/31/2024,40
+graphite,China,2.380483784,Shanshan Technology,China Processing Plant,2/29/2024,40
+graphite,China,2.335074889,Shanshan Technology,China Processing Plant,3/31/2024,40
+graphite,China,2.340244911,Shanshan Technology,China Processing Plant,4/30/2024,40
+graphite,China,2.359385118,Shanshan Technology,China Processing Plant,5/31/2024,40
+graphite,China,2.517021251,Shanshan Technology,China Processing Plant,6/30/2024,40
+graphite,China,2.194905644,Shanshan Technology,China Processing Plant,7/31/2024,40
+graphite,China,2.202979036,Shanshan Technology,China Processing Plant,8/31/2024,40
+graphite,China,2.256226614,Shanshan Technology,China Processing Plant,9/30/2024,40
+graphite,China,2.615060139,Shanshan Technology,China Processing Plant,10/31/2024,40
+graphite,China,2.162241338,Shanshan Technology,China Processing Plant,11/30/2024,40
+graphite,China,2.383114116,Shanshan Technology,China Processing Plant,12/31/2024,40
+copper,Chile,12.39847158,SQM,Chile Processing Plant,1/31/2023,20
+copper,Chile,12.6154342,SQM,Chile Processing Plant,2/28/2023,20
+copper,Chile,12.47462137,SQM,Chile Processing Plant,3/31/2023,20
+copper,Chile,12.8668175,SQM,Chile Processing Plant,4/30/2023,20
+copper,Chile,12.19660328,SQM,Chile Processing Plant,5/31/2023,20
+copper,Chile,11.48056533,SQM,Chile Processing Plant,6/30/2023,20
+copper,Chile,10.90385558,SQM,Chile Processing Plant,7/31/2023,20
+copper,Chile,12.25633827,SQM,Chile Processing Plant,8/31/2023,20
+copper,Chile,12.53318633,SQM,Chile Processing Plant,9/30/2023,20
+copper,Chile,12.03447271,SQM,Chile Processing Plant,10/31/2023,20
+copper,Chile,11.82908883,SQM,Chile Processing Plant,11/30/2023,20
+copper,Chile,11.05551051,SQM,Chile Processing Plant,12/31/2023,20
+copper,Chile,11.15518197,SQM,Chile Processing Plant,1/31/2024,20
+copper,Chile,11.71933839,SQM,Chile Processing Plant,2/29/2024,20
+copper,Chile,11.49745614,SQM,Chile Processing Plant,3/31/2024,20
+copper,Chile,12.42007628,SQM,Chile Processing Plant,4/30/2024,20
+copper,Chile,12.12751122,SQM,Chile Processing Plant,5/31/2024,20
+copper,Chile,11.10194585,SQM,Chile Processing Plant,6/30/2024,20
+copper,Chile,11.37639328,SQM,Chile Processing Plant,7/31/2024,20
+copper,Chile,11.34955679,SQM,Chile Processing Plant,8/31/2024,20
+copper,Chile,12.66828839,SQM,Chile Processing Plant,9/30/2024,20
+copper,Chile,13.15116072,SQM,Chile Processing Plant,10/31/2024,20
+copper,Chile,11.88851378,SQM,Chile Processing Plant,11/30/2024,20
+copper,Chile,11.39403227,SQM,Chile Processing Plant,12/31/2024,20
+copper,Peru,8.178944588,Southern Copper Corp,Peru Processing Plant,1/31/2023,30
+copper,Peru,7.776458292,Southern Copper Corp,Peru Processing Plant,2/28/2023,30
+copper,Peru,8.701743206,Southern Copper Corp,Peru Processing Plant,3/31/2023,30
+copper,Peru,8.454473143,Southern Copper Corp,Peru Processing Plant,4/30/2023,30
+copper,Peru,8.213801255,Southern Copper Corp,Peru Processing Plant,5/31/2023,30
+copper,Peru,8.607558115,Southern Copper Corp,Peru Processing Plant,6/30/2023,30
+copper,Peru,7.744955301,Southern Copper Corp,Peru Processing Plant,7/31/2023,30
+copper,Peru,7.457512704,Southern Copper Corp,Peru Processing Plant,8/31/2023,30
+copper,Peru,8.479536915,Southern Copper Corp,Peru Processing Plant,9/30/2023,30
+copper,Peru,7.236137279,Southern Copper Corp,Peru Processing Plant,10/31/2023,30
+copper,Peru,7.951011996,Southern Copper Corp,Peru Processing Plant,11/30/2023,30
+copper,Peru,7.441254003,Southern Copper Corp,Peru Processing Plant,12/31/2023,30
+copper,Peru,7.481470182,Southern Copper Corp,Peru Processing Plant,1/31/2024,30
+copper,Peru,8.414608964,Southern Copper Corp,Peru Processing Plant,2/29/2024,30
+copper,Peru,8.128266837,Southern Copper Corp,Peru Processing Plant,3/31/2024,30
+copper,Peru,8.709349833,Southern Copper Corp,Peru Processing Plant,4/30/2024,30
+copper,Peru,8.358801741,Southern Copper Corp,Peru Processing Plant,5/31/2024,30
+copper,Peru,8.535059275,Southern Copper Corp,Peru Processing Plant,6/30/2024,30
+copper,Peru,7.546410705,Southern Copper Corp,Peru Processing Plant,7/31/2024,30
+copper,Peru,8.068652154,Southern Copper Corp,Peru Processing Plant,8/31/2024,30
+copper,Peru,8.72210727,Southern Copper Corp,Peru Processing Plant,9/30/2024,30
+copper,Peru,8.751748104,Southern Copper Corp,Peru Processing Plant,10/31/2024,30
+copper,Peru,8.118911975,Southern Copper Corp,Peru Processing Plant,11/30/2024,30
+copper,Peru,7.687918941,Southern Copper Corp,Peru Processing Plant,12/31/2024,30
+phosphorous,Morocco,2.872121512,OCP Group,Morocco Processing Plant,1/31/2023,25
+phosphorous,Morocco,2.816400884,OCP Group,Morocco Processing Plant,2/28/2023,25
+phosphorous,Morocco,2.710521451,OCP Group,Morocco Processing Plant,3/31/2023,25
+phosphorous,Morocco,3.179134536,OCP Group,Morocco Processing Plant,4/30/2023,25
+phosphorous,Morocco,3.035929811,OCP Group,Morocco Processing Plant,5/31/2023,25
+phosphorous,Morocco,3.057108435,OCP Group,Morocco Processing Plant,6/30/2023,25
+phosphorous,Morocco,2.870861014,OCP Group,Morocco Processing Plant,7/31/2023,25
+phosphorous,Morocco,3.021886553,OCP Group,Morocco Processing Plant,8/31/2023,25
+phosphorous,Morocco,3.185283156,OCP Group,Morocco Processing Plant,9/30/2023,25
+phosphorous,Morocco,3.249118156,OCP Group,Morocco Processing Plant,10/31/2023,25
+phosphorous,Morocco,2.924835265,OCP Group,Morocco Processing Plant,11/30/2023,25
+phosphorous,Morocco,3.260121265,OCP Group,Morocco Processing Plant,12/31/2023,25
+phosphorous,Morocco,2.810622459,OCP Group,Morocco Processing Plant,1/31/2024,25
+phosphorous,Morocco,3.041233317,OCP Group,Morocco Processing Plant,2/29/2024,25
+phosphorous,Morocco,2.709548729,OCP Group,Morocco Processing Plant,3/31/2024,25
+phosphorous,Morocco,3.177616988,OCP Group,Morocco Processing Plant,4/30/2024,25
+phosphorous,Morocco,2.70987979,OCP Group,Morocco Processing Plant,5/31/2024,25
+phosphorous,Morocco,3.259628311,OCP Group,Morocco Processing Plant,6/30/2024,25
+phosphorous,Morocco,2.89818995,OCP Group,Morocco Processing Plant,7/31/2024,25
+phosphorous,Morocco,3.082330975,OCP Group,Morocco Processing Plant,8/31/2024,25
+phosphorous,Morocco,3.009795845,OCP Group,Morocco Processing Plant,9/30/2024,25
+phosphorous,Morocco,3.104002533,OCP Group,Morocco Processing Plant,10/31/2024,25
+phosphorous,Morocco,2.933628688,OCP Group,Morocco Processing Plant,11/30/2024,25
+phosphorous,Morocco,3.065612716,OCP Group,Morocco Processing Plant,12/31/2024,25
+phosphorous,China,2.142201495,Tianqi Lithium,China Processing Plant,1/31/2023,40
+phosphorous,China,2.0604104,Tianqi Lithium,China Processing Plant,2/28/2023,40
+phosphorous,China,1.824534535,Tianqi Lithium,China Processing Plant,3/31/2023,40
+phosphorous,China,2.159890228,Tianqi Lithium,China Processing Plant,4/30/2023,40
+phosphorous,China,2.057518667,Tianqi Lithium,China Processing Plant,5/31/2023,40
+phosphorous,China,2.082310119,Tianqi Lithium,China Processing Plant,6/30/2023,40
+phosphorous,China,1.925973394,Tianqi Lithium,China Processing Plant,7/31/2023,40
+phosphorous,China,2.099488337,Tianqi Lithium,China Processing Plant,8/31/2023,40
+phosphorous,China,1.90403134,Tianqi Lithium,China Processing Plant,9/30/2023,40
+phosphorous,China,2.013756941,Tianqi Lithium,China Processing Plant,10/31/2023,40
+phosphorous,China,1.821109634,Tianqi Lithium,China Processing Plant,11/30/2023,40
+phosphorous,China,2.011796876,Tianqi Lithium,China Processing Plant,12/31/2023,40
+phosphorous,China,2.108490155,Tianqi Lithium,China Processing Plant,1/31/2024,40
+phosphorous,China,2.151888189,Tianqi Lithium,China Processing Plant,2/29/2024,40
+phosphorous,China,2.037339494,Tianqi Lithium,China Processing Plant,3/31/2024,40
+phosphorous,China,2.173385716,Tianqi Lithium,China Processing Plant,4/30/2024,40
+phosphorous,China,1.868297004,Tianqi Lithium,China Processing Plant,5/31/2024,40
+phosphorous,China,1.946624114,Tianqi Lithium,China Processing Plant,6/30/2024,40
+phosphorous,China,1.937875992,Tianqi Lithium,China Processing Plant,7/31/2024,40
+phosphorous,China,2.150446648,Tianqi Lithium,China Processing Plant,8/31/2024,40
+phosphorous,China,2.168285283,Tianqi Lithium,China Processing Plant,9/30/2024,40
+phosphorous,China,2.050024037,Tianqi Lithium,China Processing Plant,10/31/2024,40
+phosphorous,China,2.047600615,Tianqi Lithium,China Processing Plant,11/30/2024,40
+phosphorous,China,2.180095854,Tianqi Lithium,China Processing Plant,12/31/2024,40
+manganese,South Africa,9.877456453,Assmang,South Africa Processing Plant,1/31/2023,35
+manganese,South Africa,9.330460164,Assmang,South Africa Processing Plant,2/28/2023,35
+manganese,South Africa,9.369853925,Assmang,South Africa Processing Plant,3/31/2023,35
+manganese,South Africa,9.122475667,Assmang,South Africa Processing Plant,4/30/2023,35
+manganese,South Africa,10.86404407,Assmang,South Africa Processing Plant,5/31/2023,35
+manganese,South Africa,10.64611214,Assmang,South Africa Processing Plant,6/30/2023,35
+manganese,South Africa,10.16464329,Assmang,South Africa Processing Plant,7/31/2023,35
+manganese,South Africa,9.543778995,Assmang,South Africa Processing Plant,8/31/2023,35
+manganese,South Africa,10.11488558,Assmang,South Africa Processing Plant,9/30/2023,35
+manganese,South Africa,10.15663863,Assmang,South Africa Processing Plant,10/31/2023,35
+manganese,South Africa,10.44524096,Assmang,South Africa Processing Plant,11/30/2023,35
+manganese,South Africa,10.55735047,Assmang,South Africa Processing Plant,12/31/2023,35
+manganese,South Africa,10.41681351,Assmang,South Africa Processing Plant,1/31/2024,35
+manganese,South Africa,10.71825233,Assmang,South Africa Processing Plant,2/29/2024,35
+manganese,South Africa,10.51772803,Assmang,South Africa Processing Plant,3/31/2024,35
+manganese,South Africa,9.013789394,Assmang,South Africa Processing Plant,4/30/2024,35
+manganese,South Africa,10.30203903,Assmang,South Africa Processing Plant,5/31/2024,35
+manganese,South Africa,10.60297386,Assmang,South Africa Processing Plant,6/30/2024,35
+manganese,South Africa,10.83655294,Assmang,South Africa Processing Plant,7/31/2024,35
+manganese,South Africa,10.54048698,Assmang,South Africa Processing Plant,8/31/2024,35
+manganese,South Africa,9.796332215,Assmang,South Africa Processing Plant,9/30/2024,35
+manganese,South Africa,10.771553,Assmang,South Africa Processing Plant,10/31/2024,35
+manganese,South Africa,9.482556269,Assmang,South Africa Processing Plant,11/30/2024,35
+manganese,South Africa,10.97472672,Assmang,South Africa Processing Plant,12/31/2024,35
+manganese,Australia,7.985533719,Pilbara Minerals,Australia Processing Plant,1/31/2023,10
+manganese,Australia,7.605965997,Pilbara Minerals,Australia Processing Plant,2/28/2023,10
+manganese,Australia,7.635471869,Pilbara Minerals,Australia Processing Plant,3/31/2023,10
+manganese,Australia,8.305968223,Pilbara Minerals,Australia Processing Plant,4/30/2023,10
+manganese,Australia,7.255851276,Pilbara Minerals,Australia Processing Plant,5/31/2023,10
+manganese,Australia,8.479669018,Pilbara Minerals,Australia Processing Plant,6/30/2023,10
+manganese,Australia,8.267826227,Pilbara Minerals,Australia Processing Plant,7/31/2023,10
+manganese,Australia,8.159725374,Pilbara Minerals,Australia Processing Plant,8/31/2023,10
+manganese,Australia,8.172422277,Pilbara Minerals,Australia Processing Plant,9/30/2023,10
+manganese,Australia,7.827242711,Pilbara Minerals,Australia Processing Plant,10/31/2023,10
+manganese,Australia,7.312325529,Pilbara Minerals,Australia Processing Plant,11/30/2023,10
+manganese,Australia,8.174936286,Pilbara Minerals,Australia Processing Plant,12/31/2023,10
+manganese,Australia,7.746992823,Pilbara Minerals,Australia Processing Plant,1/31/2024,10
+manganese,Australia,8.775392044,Pilbara Minerals,Australia Processing Plant,2/29/2024,10
+manganese,Australia,7.814290906,Pilbara Minerals,Australia Processing Plant,3/31/2024,10
+manganese,Australia,8.590835717,Pilbara Minerals,Australia Processing Plant,4/30/2024,10
+manganese,Australia,7.272959982,Pilbara Minerals,Australia Processing Plant,5/31/2024,10
+manganese,Australia,8.270003984,Pilbara Minerals,Australia Processing Plant,6/30/2024,10
+manganese,Australia,7.959392538,Pilbara Minerals,Australia Processing Plant,7/31/2024,10
+manganese,Australia,8.381613126,Pilbara Minerals,Australia Processing Plant,8/31/2024,10
+manganese,Australia,8.444822842,Pilbara Minerals,Australia Processing Plant,9/30/2024,10
+manganese,Australia,8.745888663,Pilbara Minerals,Australia Processing Plant,10/31/2024,10
+manganese,Australia,8.352397955,Pilbara Minerals,Australia Processing Plant,11/30/2024,10
+manganese,Australia,8.763265556,Pilbara Minerals,Australia Processing Plant,12/31/2024,10
