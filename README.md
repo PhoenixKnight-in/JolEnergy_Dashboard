@@ -72,7 +72,7 @@ jol-energy-dashboard/
 ## 📊 Dashboard Pages
 
 ### Page 1 — Supplier Pipeline
-![Supplier Pipeline](screenshots/01_supplier_pipeline.png)
+![Supplier Pipeline]<img width="1600" height="900" alt="1" src="https://github.com/user-attachments/assets/5df53b0b-09be-4fdf-a7ea-d159b41db946" />
 
 | KPI | Value |
 |---|---|
@@ -82,7 +82,8 @@ jol-energy-dashboard/
 | Avg ESG Risk Score | 31.73 |
 
 ### Page 2 — Buyer Pipeline
-![Buyer Pipeline](screenshots/02_buyer_pipeline.png)
+![Buyer Pipeline]<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/4be0cb99-cb1c-4a55-b99c-15975fdf63c3" />
+
 
 | KPI | Value |
 |---|---|
@@ -92,7 +93,8 @@ jol-energy-dashboard/
 | Conversion Rate | 7% |
 
 ### Page 3 — Collection Network
-![Collection Network](screenshots/03_collection_network.png)
+![Collection Network]<img width="1600" height="900" alt="3" src="https://github.com/user-attachments/assets/1cb7dcfc-21bd-46fa-80fe-4346bead6331" />
+
 
 | KPI | Value |
 |---|---|
@@ -102,7 +104,8 @@ jol-energy-dashboard/
 | Countries Covered | 5 |
 
 ### Page 4 — Market Intelligence
-![Market Intelligence](screenshots/04_market_intelligence.png)
+![Market Intelligence]<img width="1600" height="900" alt="4" src="https://github.com/user-attachments/assets/1d374170-68da-476b-802e-efde95ef54d8" />
+
 
 | Commodity | Jan 2023 | Dec 2024 | Change |
 |---|---|---|---|
